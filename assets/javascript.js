@@ -3,35 +3,35 @@ var triviaQuestions = [{
 	answerList: ["Steamboat Billy", "Steamboat Willie", "Chugboat Charlie", "Fantasia"],
 	answer: 1
 },{
-	question: "In The Simpsons, who shot Mr. Burns?",
+	question: "In 'The Simpsons', who shot Mr. Burns?",
 	answerList: ["Maggie", "Lisa", "Bart", "Smithers"],
 	answer: 0
 },{
-	question: "In Dragonball Z, what was the skill used to turn their hair blonde allowing them super strength?",
+	question: "In 'Dragonball Z', what was the skill used to turn their hair blonde allowing them super strength?",
 	answerList: ["Super Saiyan", "Digivolution", "Kamehameha", "Nothing. They're human."],
 	answer: 0
 },{
-	question: "Merida's mother in Brave changes into what after eating the enchanted cake?",
+	question: "Merida's mother in 'Brave' changes into what after eating the enchanted cake?",
 	answerList: ["Lion", "Tiger", "Bear", "Oh my...."],
 	answer: 2
 },{
-	question: "In Rick and Morty, what is Rick's 'catchphrase' he coins in the first season?",
+	question: "In 'Rick and Morty', what is Rick's 'catchphrase' he coins in the first season?",
 	answerList: ["Rikki Tikki!", "Shark Bait Hoo Haha", "I've made a huge mistake.", "Wubba Lubba Dub Dub!"],
 	answer: 3
 },{
-	question: "Who directed The Nightmare Before Christmas?",
+	question: "Who directed 'The Nightmare Before Christmas'?",
 	answerList: ["Tim Burton", "Martin Scorcese", "Judd Apatow", "Zach Braff"],
 	answer: 0
 },{
-	question: "What was the name of the villain that turns into a dragon in Sleeping Beauty?",
+	question: "What was the name of the villain that turns into a dragon in 'Sleeping Beauty'?",
 	answerList: ["Ursula", "Maleficent", "Hades", "Wreck-It Ralph"],
 	answer: 1
 },{
-	question: "In Spirited Away, what animal does Chihiro's parents get turned into?",
+	question: "In 'Spirited Away', what animal does Chihiro's parents get turned into?",
 	answerList: ["Goat", "Rabbit", "Pigs", "Foxes"],
 	answer: 2
 },{
-	question: "What was the name of Serena's love interest in Sailor Moon?",
+	question: "What was the name of Serena's love interest in 'Sailor Moon'?",
 	answerList: ["Tuxedo Mask", "Sailor Venus", "Sharon Needles", "Mimi Imfurst"],
 	answer: 0
 },{
@@ -39,7 +39,7 @@ var triviaQuestions = [{
 	answerList: ["Family Guy", "Spongebob Squarepants", "Stripperella", "Futurama"],
 	answer: 3
 },{
-	question: "Which of these names is NOT one of the Belcher kids from Bob's Burgers?",
+	question: "Which of these names is NOT one of the Belcher kids from 'Bob's Burgers'?",
 	answerList: ["Tina", "Carl", "Gene", "Louise"],
 	answer: 1
 },{
