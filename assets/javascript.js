@@ -19,7 +19,7 @@ var triviaQuestions = [{
 	answerList: ["Rikki Tikki!", "Shark Bait Hoo Haha", "I've made a huge mistake.", "Wubba Lubba Dub Dub!"],
 	answer: 3
 },{
-	question: "Who directed 'The Nightmare Before Christmas'?",
+	question: "Who is famous for producing 'The Nightmare Before Christmas'?",
 	answerList: ["Tim Burton", "Martin Scorcese", "Judd Apatow", "Zach Braff"],
 	answer: 0
 },{
