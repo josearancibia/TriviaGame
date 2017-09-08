@@ -1,0 +1,81 @@
+body{
+	background-image:url("../images/bgimage.png");
+	background-size: cover;
+	font-family: "Passion One";
+	font-size: 25px;
+	color: white;
+}
+
+header{
+	margin-bottom: 10px;
+	color: #67cbbb
+	font-size:50px;
+	text-align: center;
+	height:40px;
+	background-color: black;
+}
+
+#finalMessage, #timeLeft {
+	color:#67cbbb;
+}
+
+#message {
+ color: pink;
+}
+
+#currentQuestion {
+	color: pink;
+}
+
+#correctAnswers {
+	color: pink;
+}
+
+#incorrectAnswers, #correctedAnswer {
+	color: #a798e6;
+}
+
+.question {
+	color: #a798e6;
+}
+
+#unanswered {
+	color:#3c7486;
+}
+
+.answerList {
+	color: #3c7486;
+}
+
+.btn-primary,.reset{
+	background-color: #313477;
+	font-size: 30px;
+	padding: 20px;
+	margin-top: 100px;
+}
+.btn-primary:hover, .reset:hover{
+	background-color: #202364;
+}
+
+.container{
+	margin-top: 50px;
+	text-align: center;
+	height: 100%;
+	width: 700px;
+}
+
+h2, #message, #finalMessage{
+	font-family: "Passion One";
+}
+
+.thisChoice:hover{
+	background-color: #202364;
+	color: white;
+	padding: 10px;
+}
+
+.gifImg{
+	margin: 30px;
+	max-width: 400px;
+	align: center;
+}
