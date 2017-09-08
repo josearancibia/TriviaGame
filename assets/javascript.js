@@ -141,7 +141,7 @@ function answerPage(){
 	var rightAnswerText = triviaQuestions[currentQuestion].answerList[triviaQuestions[currentQuestion].answer];
 	var rightAnswerIndex = triviaQuestions[currentQuestion].answer;
 	//giphy api
-	var giphyURL = "http://api.giphy.com/v1/gifs/search?q=+" + search[currentQuestion] + "&api_key=9e23f9cc532e485798bcf268d5509830"
+	var giphyURL = "https://api.giphy.com/v1/gifs/search?q=+" + search[currentQuestion] + "&api_key=9e23f9cc532e485798bcf268d5509830"
 	$.ajax({url: giphyURL, method: 'GET'}).done(function(giphy){
 		var currentGif = giphy.data;
 		$.each(currentGif, function(index,value){
